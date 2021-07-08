@@ -31,7 +31,9 @@
                     }
                 ],
                 "field_type": "select"
-            },
+            }
+        ]
+    }
             {
                 "field_id": "contact",
                 "field_label": "Contact No.",
